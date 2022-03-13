@@ -32,7 +32,6 @@
 <img align="left" alt="GO" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="padding-right:10px;" />
 
 <br/>
----
 
  ## GitHub Stats :zap:
 
