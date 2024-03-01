@@ -1,10 +1,9 @@
 # Hi there, I'm Alec Berney 👋 
 
 ## Who am i?
-- ⌨️ I'm a Student and Junior Developer from Vallée de Joux (Switzerland)
-- 🧑‍🎓 I'm currently learning at engineer school HEIG-VD in Switzerland
-- 🌱 I’m currently learning Rust, PHP - Laravel, Pyhon and more
-- 🔍 I'm also searching a full time job for september 2022
+- ⌨️ I'm a Developer from Vallée de Joux (Switzerland), currently working in Open Web Technology.
+- 🧑‍🎓 I've studied at engineer school HEIG-VD in Switzerland
+- 🌱 I’m currently learning Go, Rust, PHP - Laravel, Pyhon and more in my free time.
 
 ## Connect with me
 
